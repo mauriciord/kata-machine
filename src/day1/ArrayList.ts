@@ -1,7 +1,7 @@
 export default class ArrayList<T> {
     public length: number;
 
-    
+
 
     constructor() {
     }
